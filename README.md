@@ -24,7 +24,7 @@ The project demonstrates practical skills in data cleaning, exploratory data ana
 - Create meaningful visualisations from the dataset.
 - Generate data-driven insights to support decision-making.
 
----
+--
 
 ## 📊 Dataset
 
