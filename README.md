@@ -104,7 +104,7 @@ Shows how many days per year listings are available.
 ## **2. Price vs Number of Reviews**
 Shows the relationship between listing price and review count.
 
-![Price vs Reviews](price_vs_reviews.png)
+![Price vs Reviews](Airbnb Price vs Number of Reviews.png)
 
 ---
 
