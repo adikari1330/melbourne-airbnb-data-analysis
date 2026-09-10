@@ -97,7 +97,7 @@ Data Visualisation
 ## **1. Airbnb Availability in Melbourne**
 Shows how many days per year listings are available.
 
-![Airbnb Availability](availability_chart.png)
+![Airbnb Availability](Airbnb_Availability_in_Melbourne.png)
 
 ---
 
