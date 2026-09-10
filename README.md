@@ -64,7 +64,7 @@ Important variables used in the analysis include:
 - Seaborn  
 
 ### Development Environment
-- Google Colab / Jupyter Notebook  
+- Google Colab 
 - GitHub  
 
 ---
@@ -72,21 +72,21 @@ Important variables used in the analysis include:
 ## 🔄 Data Analysis Workflow
 
 Raw Airbnb Dataset
-↓
+      ↓
 Data Loading
-↓
+      ↓
 Data Exploration
-↓
+      ↓
 Data Cleaning
-↓
+      ↓
 Handling Missing Values
-↓
+      ↓
 Data Transformation
-↓
+      ↓
 Exploratory Data Analysis
-↓
+      ↓
 Statistical Analysis
-↓
+      ↓
 Data Visualisation
 
 
@@ -104,35 +104,35 @@ Shows how many days per year listings are available.
 ## **2. Price vs Number of Reviews**
 Shows the relationship between listing price and review count.
 
-![Price vs Reviews](Airbnb Price vs Number of Reviews.png)
+![Price vs Reviews](Price_vs_Number_of_Reviews.png)
 
 ---
 
 ## **3. Average Availability by Room Type**
 Compares availability across room types.
 
-![Room Type Availability](room_type_availability.png)
+![Room Type Availability](Average_Availability_by_Room_Type.png)
 
 ---
 
 ## **4. Geographic Distribution of Listings**
 Shows where listings are located across Melbourne.
 
-![Geographic Distribution](geographic_distribution.png)
+![Geographic Distribution](Geographic_Distribution_of_Melbourne_Airbnb_Listings.png)
 
 ---
 
 ## **5. Top 15 Neighbourhoods by Number of Listings**
 Shows which neighbourhoods have the most Airbnb listings.
 
-![Top Neighbourhoods](top_neighbourhoods.png)
+![Top Neighbourhoods](Neighbourhoods_by_Number_of_Listings.png)
 
 ---
 
 ## **6. Top Neighbourhoods by Average Price**
 Shows which neighbourhoods are most expensive.
 
-![Average Price Neighbourhoods](avg_price_neighbourhoods.png)
+![Average Price Neighbourhoods](Top_Melbourne_Neighbourhoods_by_Average_Airbnb_Price.png)
 
 ---
 
