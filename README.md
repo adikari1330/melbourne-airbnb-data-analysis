@@ -141,6 +141,64 @@ This analysis provides valuable insights into Melbourne’s Airbnb market, inclu
 
 ---
 
+## 🚀 Future Improvements
+
+Although this project provides strong insights into Melbourne’s Airbnb market, several enhancements can make the analysis more comprehensive and powerful:
+
+### 🔧 1. Add Machine Learning Price Prediction
+Build a predictive model (e.g., Linear Regression, Random Forest, XGBoost) to estimate Airbnb prices based on:
+- Neighbourhood
+- Room type
+- Availability
+- Number of reviews
+- Host listing count
+
+### 🗺️ 2. Create Interactive Maps
+Use tools like Folium or Plotly to create interactive geographic visualisations:
+- Clickable markers for listings
+- Heatmaps of price distribution
+- Neighbourhood-level clustering
+
+### 📈 3. Time-Series Analysis
+Analyse how Airbnb prices and availability change over time:
+- Seasonal trends
+- Impact of holidays or events
+- Year-over-year changes
+
+### 🧹 4. Advanced Data Cleaning
+Improve data quality by:
+- Handling outliers more effectively
+- Normalising price values
+- Removing duplicate listings
+
+### ⭐ 5. Host Behaviour Analysis
+Explore host patterns such as:
+- Multi‑listing hosts
+- Superhost trends
+- Host response rates and review patterns
+
+### 📊 6. Dashboard Creation
+Build a dashboard using:
+- Power BI
+- Tableau
+- Streamlit
+
+This would allow users to explore Airbnb data interactively.
+
+### 📦 7. Expand Dataset
+Include additional datasets such as:
+- Property features (bedrooms, bathrooms)
+- Distance to city landmarks
+- Public transport accessibility
+- Crime rates or safety scores
+
+### 📝 8. Automate Data Updates
+Create a pipeline to automatically refresh the dataset and regenerate visualisations.
+
+---
+
+
+
 ## 📁 Project Structure
 
 melbourne-airbnb-data-analysis/
