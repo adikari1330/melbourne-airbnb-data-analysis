@@ -94,47 +94,46 @@ Data Visualisation
 
 # 📈 Key Visualisations
 
-## **1. Airbnb Availability in Melbourne**
-Shows how many days per year listings are available.
-
-![Airbnb Availability](Airbnb_Availability_in_Melbourne.png)
-
----
-
-## **2. Price vs Number of Reviews**
-Shows the relationship between listing price and review count.
-
-![Price vs Reviews](Price_vs_Number_of_Reviews.png)
-
----
-
-## **3. Average Availability by Room Type**
-Compares availability across room types.
-
-![Room Type Availability](Average_Availability_by_Room_Type.png)
-
----
-
-## **4. Geographic Distribution of Listings**
-Shows where listings are located across Melbourne.
-
-![Geographic Distribution](Geographic_Distribution_of_Melbourne_Airbnb_Listings.png)
-
----
-
-## **5. Top 15 Neighbourhoods by Number of Listings**
+## **1. Top 15 Neighbourhoods by Number of Listings**
 Shows which neighbourhoods have the most Airbnb listings.
 
 ![Top Neighbourhoods](Neighbourhoods_by_Number_of_Listings.png)
 
 ---
 
-## **6. Top Neighbourhoods by Average Price**
+## **2. Top Neighbourhoods by Average Price**
 Shows which neighbourhoods are most expensive.
 
 ![Average Price Neighbourhoods](Top_Melbourne_Neighbourhoods_by_Average_Airbnb_Price.png)
 
+## **3. Airbnb Availability in Melbourne**
+Shows how many days per year listings are available.
+
+![Airbnb Availability](Airbnb_Availability_in_Melbourne.png)
+
 ---
+
+## **4. Price vs Number of Reviews**
+Shows the relationship between listing price and review count.
+
+![Price vs Reviews](Price_vs_Number_of_Reviews.png)
+
+---
+
+## **5. Average Availability by Room Type**
+Compares availability across room types.
+
+![Room Type Availability](Average_Availability_by_Room_Type.png)
+
+---
+
+## **6. Geographic Distribution of Listings**
+Shows where listings are located across Melbourne.
+
+![Geographic Distribution](Geographic_Distribution_of_Melbourne_Airbnb_Listings.png)
+
+---
+
 
 ## 📌 Conclusion
 
@@ -148,14 +147,8 @@ melbourne-airbnb-data-analysis/
 │
 ├── data/
 │   └── listings.csv
-│
-├── availability_chart.png
-├── price_vs_reviews.png
-├── room_type_availability.png
-├── geographic_distribution.png
-├── top_neighbourhoods.png
-├── avg_price_neighbourhoods.png
-│
+
+
 ├── Melbourne_Airbnb_Data_Analysis_.ipynb
 ├── requirements.txt
 ├── LICENSE
