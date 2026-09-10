@@ -12,8 +12,6 @@ The project demonstrates practical skills in data cleaning, exploratory data ana
 
 ## 🎯 Project Objectives
 
-The key objectives of this project are:
-
 - Analyse Airbnb listings in Melbourne.
 - Clean and prepare the dataset for analysis.
 - Investigate Airbnb listing prices.
@@ -56,47 +54,119 @@ Important variables used in the analysis include:
 
 ## 🛠️ Technologies Used
 
-The project was developed using Python.
-
 ### Programming Language
-
 - Python
 
 ### Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
 
 ### Development Environment
-
-- Google Colab / Jupyter Notebook
-- GitHub
+- Google Colab / Jupyter Notebook  
+- GitHub  
 
 ---
 
 ## 🔄 Data Analysis Workflow
 
-The project follows the following data analysis workflow:
-
-```text
 Raw Airbnb Dataset
-        ↓
+↓
 Data Loading
-        ↓
+↓
 Data Exploration
-        ↓
+↓
 Data Cleaning
-        ↓
+↓
 Handling Missing Values
-        ↓
+↓
 Data Transformation
-        ↓
+↓
 Exploratory Data Analysis
-        ↓
+↓
 Statistical Analysis
-        ↓
+↓
 Data Visualisation
-        ↓
-Insights and Conclusions
+
+
+---
+
+# 📈 Key Visualisations
+
+## **1. Airbnb Availability in Melbourne**
+Shows how many days per year listings are available.
+
+![Airbnb Availability](availability_chart.png)
+
+---
+
+## **2. Price vs Number of Reviews**
+Shows the relationship between listing price and review count.
+
+![Price vs Reviews](price_vs_reviews.png)
+
+---
+
+## **3. Average Availability by Room Type**
+Compares availability across room types.
+
+![Room Type Availability](room_type_availability.png)
+
+---
+
+## **4. Geographic Distribution of Listings**
+Shows where listings are located across Melbourne.
+
+![Geographic Distribution](geographic_distribution.png)
+
+---
+
+## **5. Top 15 Neighbourhoods by Number of Listings**
+Shows which neighbourhoods have the most Airbnb listings.
+
+![Top Neighbourhoods](top_neighbourhoods.png)
+
+---
+
+## **6. Top Neighbourhoods by Average Price**
+Shows which neighbourhoods are most expensive.
+
+![Average Price Neighbourhoods](avg_price_neighbourhoods.png)
+
+---
+
+## 📌 Conclusion
+
+This analysis provides valuable insights into Melbourne’s Airbnb market, including pricing trends, neighbourhood patterns, room-type availability, and listing popularity. These findings can support hosts, travellers, and policymakers in understanding market behaviour and making informed decisions.
+
+---
+
+## 📁 Project Structure
+
+melbourne-airbnb-data-analysis/
+│
+├── data/
+│   └── listings.csv
+│
+├── availability_chart.png
+├── price_vs_reviews.png
+├── room_type_availability.png
+├── geographic_distribution.png
+├── top_neighbourhoods.png
+├── avg_price_neighbourhoods.png
+│
+├── Melbourne_Airbnb_Data_Analysis_.ipynb
+├── requirements.txt
+├── LICENSE
+└── README.md
+
+
+
+## 🔗 GitHub Repository
+<https://github.com/adikari1330/melbourne-airbnb-data-analysis>
+
+
+
+
+
